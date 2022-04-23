@@ -1,4 +1,4 @@
 Rencana belajar kedepannya
 1. React js
 2. Code igniter
-3. Angular js
+3. Vue Js
